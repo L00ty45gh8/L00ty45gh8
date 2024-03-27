@@ -1,4 +1,5 @@
-###Hi!
+Hi!
+
 Im a python dev and I also build video games 🎮 I have a youtube channel too the channel name is the same as my github username 😁
 
 <!---
