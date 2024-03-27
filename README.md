@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @L00ty45gh8
-- 👀 I’m interested in Idk
-- 🌱 I’m currently learning Godot
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me well just dont
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: :)
+###Hi!
+Im a python dev and I also build video games 🎮 I have a youtube channel too the channel name is the same as my github username 😁
 
 <!---
 L00ty45gh8/L00ty45gh8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
